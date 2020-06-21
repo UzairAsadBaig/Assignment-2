@@ -1,0 +1,82 @@
+body{
+    font-family:Averia Sans Libre,Arial, Helvetica, sans-serif;
+}
+
+/* Navbar */
+
+#navbr{
+    background-color: grey;
+    border: 3px solid black;
+
+}
+#collapsibleNavbar>ul>li{
+    color: Black;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    font-weight: 600;
+    text-decoration: none;
+}
+#collapsibleNavbar>ul>li a{
+    color: Black;
+  
+}
+
+
+.navbar-header #name{
+    text-decoration: none;
+    color: rgb(2, 2, 2);
+    font-weight: bold;
+ 
+}
+#name .navbar-brand{
+    font-size: 30px;
+}
+/* button.navbar-toggler{
+    border:1px solid black;
+   
+}
+button span{
+    color: black;
+} */
+
+/* Navbar-End */
+
+
+/* Main Page Start */
+#caption h1{
+    font-size: 28px;
+    font-weight: 900;
+    margin: 10px;
+}
+#block1{
+    padding: 15px;
+    margin: 40px 10px 10px 10px;
+    /* border: 1px solid black; */
+    background-color: grey;
+    font-weight: 600;
+    font-size: medium;
+}
+#block2{
+    padding: 15px;
+    margin: 10px 10px 10px 10px;
+    /* border: 1px solid black; */
+    background-color: grey;
+    font-weight: 600;
+    font-size: medium;
+}
+#block3{
+    padding: 15px;
+    margin: 10px 10px 10px 10px;
+    /* border: 1px solid black; */
+    background-color: grey;
+    font-weight: 600;
+    font-size: medium;
+}
+.headings{
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+   
+}
+/* Main Page End */
